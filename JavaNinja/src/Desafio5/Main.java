@@ -25,7 +25,6 @@ public class Main {
         banco.transferirSaldo(contaPoupanca1, contaPoupanca2);
 
 
-
         contaCorrente1.consultarSaldo();
         contaPoupanca1.consultarSaldo();
         contaCorrente2.consultarSaldo();
